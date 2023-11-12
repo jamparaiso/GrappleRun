@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour
         {
             DestroyImmediate(gameObject);
         }
+
     }
 
     private void Start()
